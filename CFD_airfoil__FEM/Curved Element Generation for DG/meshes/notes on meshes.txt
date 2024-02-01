@@ -1,0 +1,46 @@
+c0
+q1:
+elems = 2054 x 3
+nodes = 1105 x 2
+B2E = 160 x 3
+I2E = 3001 x 4
+
+q2:
+elems = 2054 x 6
+nodes = 7267 x 2
+
+q3:
+elems = 2054 x 10
+nodes = 15483 x 2
+
+c1
+q1:
+elems = 8216 x 3
+nodes = 4266 x 2
+B2E = 320 x 3
+I2E = 12164 x 4
+
+q2:
+elems = 8216 x 6
+nodes = 28914 x 2
+
+q3:
+elems = 8216 x 10
+nodes = 61778 x 2
+
+
+c2
+q1:
+elems = 32864 x 3
+nodes = 16750 x 2
+B2E = 640 x 3
+I2E = 48976 x 4
+
+q2:
+elems = 32864 x 6
+nodes = 115342 x 2
+
+q3:
+elems = 32864 x 10
+nodes = 246798 x 2
+
